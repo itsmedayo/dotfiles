@@ -1,0 +1,5 @@
+REMOTE_ADDR=pkgbuild-repo
+LOCAL_PATH=/var/cache/pacman/itsme-local/
+REMOTE_PATH=~/public_html/repo
+LOCAL_PATH_AURUTILS=/home/itsme/.local/share/aurutils/
+REMOTE_PATH_AURUTILS=~/aurutils-cache
